@@ -5,7 +5,7 @@
   </a>
 
   <h3>
-    🚀 Mobile & Full-Stack Alchemist | Turning ideas into reality with Flutter, Python & a touch of C++ magic ✨
+    🚀 Mobile & Full-Stack Alchemist | Turning ideas into reality with Flutter ✨
   </h3>
 
   <img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&label=Profile+Visitors&color=FF9A00&style=flat-square" alt="profile visitors" />
@@ -34,7 +34,7 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Scroll.png" alt="Scroll" width="35" height="35" /> About Me
 </h2>
 
-💡 I'm Mohamed Saleh, a software developer who thrives on crafting elegant and impactful digital experiences. From sleek mobile apps with **Flutter & Dart** to powerful backend systems with **Python & C++**, and diving into data with **SQL Server & Power BI**, I love bringing complex ideas to life. My core belief? Technology should be intuitive, efficient, and a little bit fun! Currently exploring [mention a specific new interest or tech if you have one, e.g., AI in mobile apps, advanced data visualization].
+💡 I'm Mohamed Saleh, a software developer who thrives on crafting elegant and impactful digital experiences. From sleek mobile apps with **Flutter & Dart** to powerful backend systems with **Python & C++**, and diving into data with **SQL Server & Power BI**, I love bringing complex ideas to life. My core belief? Technology should be intuitive, efficient, and a little bit fun! Currently exploring [ AI in mobile apps, advanced data visualization].
 
 ---
 <p align="center">❖ ❖ ❖</p>
@@ -49,8 +49,6 @@
   **Languages:**<br/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&color=02569B" alt="Flutter"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&color=0175C2" alt="Dart"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=3776AB" alt="Python"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&color=00599C" alt="C++"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=E34F26" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&color=1572B6" alt="CSS3"/>
   <br/><br/>
