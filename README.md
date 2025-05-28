@@ -13,15 +13,15 @@
 </div>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL" target="_blank">
+  <a href="https://www.linkedin.com/in/%E2%80%AAmohamed-saleh%E2%80%AC%E2%80%8F-033309306/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2" alt="LinkedIn"/>
   </a>
   &nbsp;
-  <a href="https://github.com/YourGitHubUsername" target="_blank">
+  <a href="https://github.com/Mohamed-saleh-20" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&color=181717" alt="GitHub"/>
   </a>
   &nbsp;
-  <a href="mailto:YOUR_EMAIL_ADDRESS" target="_blank">
+  <a href="mailto:https://mail.google.com/mail/u/0/#inbox" target="_blank">
     <img src="https://img.shields.io/badge/Say%20Hello-F72585?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   </p>
